@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://1903analytics.netlify.app"
 title   = "1903 Analytics and Consulting"
 languageCode = "en-us"
 theme = "hello-friend-ng"
