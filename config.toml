@@ -1,4 +1,4 @@
-baseURL = "https://1903-Analytics.github.io/online-card"
+baseURL = "https://1903-Analytics.github.io/"
 title   = "1903 Analytics and Consulting"
 languageCode = "en-us"
 theme = "hello-friend-ng"
