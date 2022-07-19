@@ -1,4 +1,4 @@
-baseURL = "https://1903analytics.netlify.app"
+baseURL = "https://1903-Analytics.github.io/online-card"
 title   = "1903 Analytics and Consulting"
 languageCode = "en-us"
 theme = "hello-friend-ng"
